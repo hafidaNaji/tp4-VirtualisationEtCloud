@@ -63,13 +63,16 @@ stages (Cloning Git, Building image, Publish Image)</h>
 <img src="captures/26.Capture.PNG">
 <img src="captures/27.Capture.PNG">
 
-<h1>10. Créer  job3tp4de type pipeline</h1>
+<h1>11. Créer un job 3 et coupler le script Jenkinsfile au job 3</h1>
 <h2>quatre Stages
 (Cloning Git, Building image, Test image, Publish Image)</h2>
-<img src="captures/28.Capture.PNG">
-<img src="captures/29.Capture.PNG">
+<img src="captures/30.Capture.PNG">
+<img src="captures/31.Capture.PNG">
+<img src="captures/32.Capture.PNG">
+<img src="captures/33.Capture.PNG">
 
-<h1>11. Créer un job 3 et coupler le script Jenkinsfile au job 3</h1>
+
+
 
 
 

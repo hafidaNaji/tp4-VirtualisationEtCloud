@@ -55,3 +55,21 @@
 <img src="captures/23.Capture.PNG">
 <img src="captures/24.Capture.PNG">
 
+<h1>10. Créer  job2tp4b2 de type pipeline</h1>
+<h>trois
+stages (Cloning Git, Building image, Publish Image)</h>
+<img src="captures/25.Capture.PNG">
+<h2>Configuration</h2>
+<img src="captures/26.Capture.PNG">
+<img src="captures/27.Capture.PNG">
+
+<h1>10. Créer  job3tp4de type pipeline</h1>
+<h2>quatre Stages
+(Cloning Git, Building image, Test image, Publish Image)</h2>
+<img src="captures/28.Capture.PNG">
+<img src="captures/29.Capture.PNG">
+
+
+
+
+

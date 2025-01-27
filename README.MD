@@ -69,6 +69,8 @@ stages (Cloning Git, Building image, Publish Image)</h>
 <img src="captures/28.Capture.PNG">
 <img src="captures/29.Capture.PNG">
 
+<h1>11. Créer un job 3 et coupler le script Jenkinsfile au job 3</h1>
+
 
 
 

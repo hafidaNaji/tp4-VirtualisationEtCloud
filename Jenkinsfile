@@ -39,7 +39,7 @@ pipeline {
             steps {
                 script {
                     // Exemple d'écriture dans un fichier texte
-                    sh 'echo "Build number: ${BUILD_NUMBER}, Image: ${dockerImage.id}" >> build_info.txt'
+                    bat 'echo Build number: ${BUILD_NUMBER}, Image: ${dockerImage.id} >> build_info.txt'
                 }
             }
         }

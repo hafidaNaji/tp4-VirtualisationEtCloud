@@ -73,7 +73,22 @@ stages (Cloning Git, Building image, Publish Image)</h>
 <img src="captures/34.Capture.PNG">
 <h2>Configuration contenu du fichier Jenkinsfile</h2>
 <img src="captures/35.Capture.PNG">
+<img src="captures/36.1Capture.PNG">
+<h2>Installation du plugins view stage</h2>
 <img src="captures/36.Capture.PNG">
+<h2>lancer le build</h2>
+<img src="captures/37.Capture.PNG">
+
+<h1>12.Resultat de build stages</h1>
+<img src="captures/40.Capture.PNG">
+<img src="captures/41.Capture.PNG">
+
+<h1>13. Resultat du déploiement dans docker desktop</h1>
+<img src="captures/39.Capture.PNG">
+
+
+
+
 
 
 

@@ -70,6 +70,11 @@ stages (Cloning Git, Building image, Publish Image)</h>
 <img src="captures/31.Capture.PNG">
 <img src="captures/32.Capture.PNG">
 <img src="captures/33.Capture.PNG">
+<img src="captures/34.Capture.PNG">
+<h2>Configuration contenu du fichier Jenkinsfile</h2>
+<img src="captures/35.Capture.PNG">
+<img src="captures/36.Capture.PNG">
+
 
 
 
